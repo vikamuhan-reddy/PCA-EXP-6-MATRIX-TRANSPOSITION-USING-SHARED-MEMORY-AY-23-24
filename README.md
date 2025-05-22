@@ -406,4 +406,4 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 
 
 ## RESULT:
-Thus the program has been executed by using CUDA to transpose a matrix. It is observed that there are variations shared memory and global memory implementation. The elapsed times are recorded the range from setRowReadRow to setRowReadColDynPad.
+Thus the program has been executed by using CUDA to transpose a matrix. It is observed that there are variations shared memory and global memory implementation. 
